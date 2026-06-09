@@ -1,6 +1,6 @@
 #take 2numbers as input
-a=int(input("Enter first number:"))
-b=int(input("Enter second number:"))
+a=10
+b=0
 #perform operations
 add=a+b
 diff=a-b
