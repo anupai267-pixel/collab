@@ -4,3 +4,4 @@ add=a+b
 diff=a-b
 print("Sum is:",add)
 print("Difference is:", diff)
+#arithmetic operation
