@@ -5,6 +5,7 @@ b=0
 add=a+b
 diff=a-b
 mul=a*b
+mod=a//b
 if (b==0):
     print("cannot devide by zero")
 else:
@@ -13,4 +14,5 @@ print("Sum is:",add)
 print("Difference is:", diff)
 print("Multiplication is: ",mul)
 print("Division is : ",div)
+print("Modulus is :",mod)
 #arithmetic operation
